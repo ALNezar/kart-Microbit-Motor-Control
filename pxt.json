@@ -1,0 +1,30 @@
+{
+    "name": "Kart",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "bluetooth": "*",
+        "servo": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v7.0.61",
+        "tag": "v7.0.61",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/1bb8145a013b8c3718bf6c82138e87e3ecb5514d",
+        "target": "7.0.61",
+        "pxt": "11.1.14",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
